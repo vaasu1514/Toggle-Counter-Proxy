@@ -167,7 +167,7 @@ Department of Electrical Engineering, Indian Institute of Technology Ropar.
 If you use this work, please cite:
 
 ```bibtex
-@unpublished{srinivasan_toggle_counter_2026,
+@unpublished{iitropar_toggle_counter_2026,
   author = {Srinivasan, Sarath and Enamandram, Vaasudev and Varshney, Mukund and Kumar, Abhishek},
   title  = {On-Chip Toggle-Counter Fingerprinting as a Runtime Power Side-Channel
             Proxy for Hardware Trojan Detection in FPGA-Based AES Cryptographic Cores},
