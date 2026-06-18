@@ -168,7 +168,7 @@ If you use this work, please cite:
 
 ```bibtex
 @unpublished{iitropar_toggle_counter_2026,
-  author = {Srinivasan, Sarath and Enamandram, Vaasudev and Varshney, Mukund and Kumar, Abhishek},
+  author = {Sarath Srinivasan and Vaasudev Enamandram and Mukund Varshney and Abhishek Kumar},
   title  = {On-Chip Toggle-Counter Fingerprinting as a Runtime Power Side-Channel
             Proxy for Hardware Trojan Detection in FPGA-Based AES Cryptographic Cores},
   note   = {Manuscript under review, IEEE Transactions on Information Forensics and Security},
